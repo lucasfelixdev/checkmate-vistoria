@@ -535,6 +535,7 @@ box-shadow: 2px 10px 35px -8px rgba(0,0,0,0.66);
     .a-s-home_btn{margin-top: 30px;}
     .s-home__btn{width: 350px;}
     .a-s-home_btn .s-home__info__btn h3{font-size: 20px;}
+    .a-s-home_btn .s-home__info__btn h3:hover{font-size: 26px;}
 
     .s-why{padding: 0px 0;}
     .s-why__container{flex-direction: column; justify-content: center;}
