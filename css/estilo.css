@@ -525,7 +525,7 @@ box-shadow: 2px 10px 35px -8px rgba(0,0,0,0.66);
     .s-call-action__text h1{line-height: 40px;}
     .s-call-action__text {width: 80%}
     .s-call_action-container{padding: 60px 0;}
-
+    
     .s-home__infos {text-align: center;}
     .s-home__infos h1{font-size: 37px;}
     .s-home__infos-check{align-items: center; gap: 18px; margin-top: 80px;}
@@ -540,7 +540,9 @@ box-shadow: 2px 10px 35px -8px rgba(0,0,0,0.66);
     .s-why{padding: 0px 0;}
     .s-why__container{flex-direction: column; justify-content: center;}
     .s-why__container img{height: 210px;}
-    .s-why__texts{width: 85%; padding-top: 50px;}
+    .s-why__texts{width: 90%; padding-top: 50px;}
+    .s-why__texts h2{text-align: center; font-size: 30px;}
+
     .title-beneficios h2{width: 90% 45px; line-height: 50px;}
     .destaque__item-nav{display:inline;}
     .one,.two,.three{
