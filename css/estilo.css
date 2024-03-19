@@ -57,6 +57,7 @@ html{
 .textDestaque-2{color: var(--SecondaryCOLOR);}
 .texDestaque-3{color: var(--baseCOLOR);}
 .texDestaque-4{color: var(--primaryCOLORV2);font-weight: 700;}
+.texDestaque-5{color: var(--blackcolor);}
 
 header{
     background: var(--GradientSecondaryColor);
@@ -243,12 +244,12 @@ box-shadow: 2px 10px 35px -8px rgba(0,0,0,0.66);
     width: 35%;
 }
 .s-why__texts p{
-    color: var(--blacklight);
+    color: var(--SecondaryCOLOR);
     letter-spacing: 1px;
 }
 
 .s-why__texts h2{
-    color: var(--blackcolor);
+    color: var(--SecondaryCOLOR);
     font-size: 35px;
     line-height: 34px;
 }
