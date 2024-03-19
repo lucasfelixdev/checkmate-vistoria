@@ -309,7 +309,7 @@ box-shadow: 2px 10px 35px -8px rgba(0,0,0,0.66);
 
 .title{
     justify-content: left;
-    padding: 20px 30px;
+    padding: 26px 30px 5px 30px;
     display: flex;
     align-items: center;
     gap: 20px;
@@ -324,7 +324,7 @@ box-shadow: 2px 10px 35px -8px rgba(0,0,0,0.66);
     font-size: 24px;
     text-align: left;
     line-height: 22px;
-    margin-top: 5px;
+    margin-top: 6px;
 }
 .text{
     padding: 10px 40px 40px 40px;
