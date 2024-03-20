@@ -10,7 +10,7 @@
     
     --baseCOLOR: #ffffff;
 
-    --SecondaryCOLOR:#002356;
+    --SecondaryCOLOR:#002154;
     --SecondaryCOLORV2:#003083;
 
     --blackcolor: rgb(32, 32, 32);
@@ -33,7 +33,6 @@ body{
     font-style: normal;
     font-weight: 400;
     font-style: normal;
-    overflow-x: hidden;
 }
 
 html{
