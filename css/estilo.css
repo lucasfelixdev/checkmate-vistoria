@@ -175,6 +175,10 @@ li.destaque__item-nav a{
     flex-direction: column;
     gap: 42px;
 }
+
+.s-home__infos-check img{
+    height: 31px;
+}
 .s-home__btn{
     border-radius: 8px;
     margin: 0 auto;
