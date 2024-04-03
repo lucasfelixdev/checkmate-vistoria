@@ -1,7 +1,3 @@
-window.revelar = ScrollReveal({ // Ativação do ScrollReveal
-  reset:false
-})
-
 var swiper = new Swiper(".mySwiper", {
     slidesPerView: 1,
     spaceBetween: 10,
