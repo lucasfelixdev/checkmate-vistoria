@@ -121,6 +121,7 @@ li.destaque__item-nav a{
 
 .header__contents-logo img{
     height: 40px;
+    width: 100%;
 }
 
 .s-home{
@@ -178,6 +179,7 @@ li.destaque__item-nav a{
 
 .s-home__infos-check img{
     height: 31px;
+    width: 31px;
 }
 .s-home__btn{
     border-radius: 8px;
@@ -243,6 +245,7 @@ box-shadow: 2px 10px 35px -8px rgba(0,0,0,0.66);
 
 .s-why__container img{
     height: 600px;
+    width: 550px;
     filter: drop-shadow(3px -12px 40px #fff3c7);
 }
 
@@ -489,7 +492,7 @@ box-shadow: 2px 10px 35px -8px rgba(0,0,0,0.66);
 
     .s-why{padding: 0px 0;}
     .s-why__container{flex-direction: column; justify-content: center;}
-    .s-why__container img{height: 400px;}
+    .s-why__container img{height: 400px; width: 395px;}
     .s-why__texts{width: 90%; padding-top: 50px;}
     .s-why__texts h2{text-align: center; font-size: 30px;}
 
