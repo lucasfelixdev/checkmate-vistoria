@@ -44,3 +44,23 @@ itens.forEach(item => {
     show = true;
   });
 });
+
+
+
+document.addEventListener("DOMContentLoaded", function() {
+  var lazyloadImages = document.querySelectorAll(".lazyload");
+
+  // Função para carregar imagens quando estão visíveis no viewport
+  function lazyload() {
+      lazyloadImages.forEach(function(img) {
+          if (img.getBoundingClientRect().top < window.innerHeight && img.getBoundingClientRect().bottom >= 0) {
+              img.src = img.dataset.src;
+              img.classList.remove('lazyload');
+          }
+      });
+  }
+
+  // Carregar imagens quando a página é carregada ou rolada
+  lazyload();
+  window.addEventListener("scroll", lazyload);
+});
