@@ -4,16 +4,16 @@
 <path d="M0 11C0 12 1 12 1 12H6.25606C6.09023 11.5308 6 11.026 6 10.5C6 9.14634 6.5977 7.93228 7.54358 7.10733C7.07708 7.03817 6.56399 7 6 7C1 7 0 10 0 11Z" fill="url(#paint2_linear_3465_902)"/>
 <defs>
 <linearGradient id="paint0_linear_3465_902" x1="-1.04308e-07" y1="7" x2="14" y2="7" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FFD503"/>
-<stop offset="1" stop-color="#FFEC8E"/>
+<stop stop-color="#0f2158"/>
+<stop offset="1" stop-color="#0f2158"/>
 </linearGradient>
 <linearGradient id="paint1_linear_3465_902" x1="-1.04308e-07" y1="7" x2="14" y2="7" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FFD503"/>
-<stop offset="1" stop-color="#FFEC8E"/>
+<stop stop-color="#0f2158"/>
+<stop offset="1" stop-color="#0f2158"/>
 </linearGradient>
 <linearGradient id="paint2_linear_3465_902" x1="-1.04308e-07" y1="7" x2="14" y2="7" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FFD503"/>
-<stop offset="1" stop-color="#FFEC8E"/>
+<stop stop-color="#0f2158"/>
+<stop offset="1" stop-color="#0f2158"/>
 </linearGradient>
 </defs>
 </svg>
