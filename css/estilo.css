@@ -458,11 +458,12 @@ box-shadow: 2px 10px 35px -8px rgba(0,0,0,0.66);
     height: 50px;
     background: var(--SecondaryCOLOR);
 }
-
+.infos-contat-anhaia{min-width: 500px;}
 @media(max-width: 1080px){.destaque__item-nav{display: none;} .s-call_action-container{justify-content: center;}}
 @media (max-width: 965px){
     .content-footer{justify-content: center;}
     .infos-contact{justify-content: center;}
+    .infos-contat-anhaia{flex-direction: column; min-width: 300px;}
     .infos-colum02{margin-top: 30px;}
     .infos-colum02 h4{font-size: 20px;}
     .infos-colum02 img{height: 25px}
@@ -492,7 +493,7 @@ box-shadow: 2px 10px 35px -8px rgba(0,0,0,0.66);
 
     .s-why{padding: 0px 0;}
     .s-why__container{flex-direction: column; justify-content: center;}
-    .s-why__container img{height: 400px; width: 395px;}
+    .s-why__container img{height: 345px; width: 345px;}
     .s-why__texts{width: 90%; padding-top: 50px;}
     .s-why__texts h2{text-align: center; font-size: 30px;}
 
@@ -559,6 +560,10 @@ box-shadow: 2px 10px 35px -8px rgba(0,0,0,0.66);
 
     nav .nav li{
         margin-top: 20px;
+    }
+
+    .anhia-end{
+        width: 50%;
     }
 }
 
