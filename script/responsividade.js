@@ -25,6 +25,13 @@ var swiper = new Swiper(".mySwiper", {
     },
 });
 
+window.addEventListener('DOMContentLoaded', function() {
+  var images = document.querySelectorAll('img');
+  images.forEach(function(img) {
+      img.setAttribute('loading', 'lazy');
+  });
+});
+
 
 let show = true;
 const menuSection = document.querySelector(".menu-section")
