@@ -411,7 +411,7 @@ box-shadow: 2px 10px 35px -8px rgba(0,0,0,0.66);
     height: 60px;
 }
 .infos-colum01{
-    margin: auto;
+    /* margin: auto; */
     max-width: 400px;
 }
 
