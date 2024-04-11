@@ -476,7 +476,7 @@ box-shadow: 2px 10px 35px -8px rgba(0,0,0,0.66);
         flex-direction: column-reverse;
     }
     .s-call_action-container{justify-content: center; text-align: center;}
-    .s-call-action__text h1{line-height: 40px;}
+    .s-call-action__text h1{line-height: 35px; font-size: 25px;}
     .s-call-action__text {width: 80%}
     .s-call_action-container{padding: 60px 0;}
     
@@ -497,7 +497,7 @@ box-shadow: 2px 10px 35px -8px rgba(0,0,0,0.66);
     .s-why__texts{width: 90%; padding-top: 50px;}
     .s-why__texts h2{text-align: center; font-size: 30px;}
 
-    .title-beneficios h2{width: 90% 45px; line-height: 50px;}
+    .title-beneficios h2{width: 90%; font-size: 40px; line-height: 50px;}
     .destaque__item-nav{display:inline;}
     .one,.two,.three{
         transition: 2s;
